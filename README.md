@@ -101,11 +101,6 @@ static void main() {
 
 System.out.println("Hello students"); System.out.println("Welcome to Devops Lab"); System.out.println("Lab Program no.4");
 
-104.2
-
-5G+
-
-29%
 
 Step 3: Build and Run the Maven Project
 
